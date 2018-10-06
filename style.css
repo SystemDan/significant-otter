@@ -32,6 +32,13 @@ h2 {
   font-size: 20px;
 }
 
+.text {
+  font-size: 20px;
+  padding-left: 7%;
+  padding-right: 7%;
+  text-align: center;
+}
+
 i {
   font-family: 'Shadows Into Light Two', cursive;
   color: #E63449;
